@@ -5,7 +5,7 @@ module.exports = {
         var Customers = function (name, phone, email, id) {
             this.name = name;
             this.phone = phone;
-            this.emdail = email;
+            this.email = email;
             this.id = id;
         };
 
